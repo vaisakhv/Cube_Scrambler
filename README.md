@@ -1,6 +1,6 @@
 # Cube_Scrambler
 
-A Script for creating scamble code for Rubik's Cube using minimal dependencies.
+A Script for creating scramble code for Rubik's Cube using minimal dependencies.
 
 This program is licensed under GPL V3.
 
